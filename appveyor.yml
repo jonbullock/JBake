@@ -17,4 +17,4 @@ install:
 #  - gradlew.bat -u -i assemble
 build: off
 test_script:
-  - gradlew.bat check
+  - gradlew.bat -i check
